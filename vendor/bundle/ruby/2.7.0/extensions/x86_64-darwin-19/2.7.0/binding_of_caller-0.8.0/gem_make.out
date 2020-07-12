@@ -1,0 +1,16 @@
+current directory: /Users/otsukarintarou/Documents/jtag/vendor/bundle/ruby/2.7.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/Users/otsukarintarou/.anyenv/envs/rbenv/versions/2.7.0/bin/ruby -I /Users/otsukarintarou/.anyenv/envs/rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20200711-72761-d759q0.rb extconf.rb
+
+current directory: /Users/otsukarintarou/Documents/jtag/vendor/bundle/ruby/2.7.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/otsukarintarou/Documents/jtag/vendor/bundle/ruby/2.7.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/otsukarintarou/Documents/jtag/vendor/bundle/ruby/2.7.0/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
